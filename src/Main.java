@@ -11,6 +11,9 @@ public class Main {
             calc(input);
         } catch (IOException e) {
             throw new RuntimeException(e);
+
+
+
         }
     }
 
