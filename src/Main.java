@@ -77,6 +77,8 @@ public class Main {
                 throw new RuntimeException(e);
             }
         } else throw new ArithmeticException();
+
+
     }
 
     private static void resultRome(String[] numbers, TypeOperation type) throws Exception {
